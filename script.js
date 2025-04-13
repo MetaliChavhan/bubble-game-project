@@ -1,6 +1,6 @@
 //this parts makes bubble
 var timer=60;
-var score=0;
+var score=0;""
 var hitrn=0;
 
 
